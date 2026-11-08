@@ -162,6 +162,7 @@ ollama>=0.2.0
 
 ## 👤 Autor
 
+**Juan Carlos Araneda M.**  
 Desarrollado como parte del programa de formación **Hacking con IA — 8dot8**
 Sesión 8 — Tarea práctica
 
